@@ -5,7 +5,7 @@ let algumacoisa = 10
 
 console.log(algumacoisa)
 
-algumacoisa = "Rodrigolu"
+algumacoisa = "Rodrigo"
 
 console.log(algumacoisa)
 
