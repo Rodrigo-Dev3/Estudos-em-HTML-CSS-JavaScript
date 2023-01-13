@@ -14,6 +14,7 @@ console.log(algumacoisa)
 
 //Testando a diferença de acesso entre var e let
 function teste(){
+    //var nome = "Rodrigo"
     let nome = "Rodrigo"
     if(true){
         console.log("Dentro do IF do teste: " + nome)
