@@ -4,9 +4,9 @@ let numeros = [10, 20, 30, 40]
 //     console.log(numeros[posicao])
 // }
 
-// for(posicaoValores of numeros){
-//     console.log(posicaoValores)
-// }
+ for(posicaoValores of numeros){
+     console.log(posicaoValores)
+}
 
 //Utilizando com elementos da página HTML
 const objetos = document.getElementsByTagName('div')
